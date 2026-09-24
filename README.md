@@ -2,9 +2,10 @@
 
 <h2>Project</h2>
 
-<p>
+<h3>
 Quantum-Assisted Dynamic Routing and Scheduling for AAM Traffic Management.
-</p>
+</h3>
+<h2>AeroQuanta is a Cloud–Edge–Quantum framework for dynamically optimizing AAM vehicle routing and scheduling under changing traffic and operational conditions.</h2>
 
 <h2>Team</h2>
 
