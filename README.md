@@ -15,11 +15,11 @@ Quantum-Assisted Dynamic Routing and Scheduling for AAM Traffic Management.
     <th>Role</th>
   </tr>
   <tr>
-    <td>Koushik Reddy Sudireddy-Cloud–Edge & AI Systems Lead</td>
+    <td>Koushik Reddy Sudireddy</td>
     <td>Cloud &amp; Edge Infrastructure Lead</td>
   </tr>
   <tr>
-    <td>Pavan Krishna Yarlagadda-Quantum Optimization & Routing Lead</td>
+    <td>Pavan Krishna Yarlagadda</td>
     <td>Quantum Algorithms &amp; Graph Optimization Lead</td>
   </tr>
 </table>
